@@ -1,6 +1,6 @@
 <div align="center">
 
-![codeXall — independent app company](./dist/assets/codexall-hero-light.png)
+![codeXall — independent app company](./assets/codexall-hero-light.png)
 
 # codeXall
 
